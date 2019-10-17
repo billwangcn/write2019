@@ -1,0 +1,40 @@
+{
+	"author": "Bill Wang",
+	"plugins": [
+		"cloud-image",
+		"tex",
+		"sequence",
+		"highlight",
+		"copy-code",
+		"flow",
+		"image-zoom",
+		"api",
+		"sql-table"
+	],
+	"pluginsConfig": {
+		"theme-special": {},
+		"fontSettings": {
+			"family": "仿宋",
+			"size": 16
+		},
+		"H2": {
+			"family": "黑体",
+			"size": 24
+		},
+		"H3": {
+			"family": "黑体",
+			"size": 18
+		}
+	},
+	"pdf": {
+		"pageNumbers": true,
+		"fontFamily": "Arial",
+		"fontSize": 12,
+		"paperSize": "a4",
+		"margin": {
+			"right": 62,
+			"left": 62,
+			"top": 56,
+			"bottom": 56
+		}
+	}
